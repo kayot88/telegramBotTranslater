@@ -15,6 +15,6 @@
     "node-telegram-bot-api": "^0.30.0",
     "nodemon": "^1.19.0",
     "telegraf": "^3.29.0",
-    "telegraf-session-local": "0.0.6"
+    "telegraf-session-local": "0.0.7"
   }
 }
